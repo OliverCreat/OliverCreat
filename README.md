@@ -1,5 +1,5 @@
 - ## 👋 Hi, I’m @OliverCreat
-- Bem-vindo ao meu perfil no GitHub! Sou Tenente Coronel da Polícia Militar do Estado de Rondônia, atualmente explorando o universo da tecnologia e estudando **Análise e Desenvolvimento de Sistemas**.
+- Bem-vindo ao meu perfil no GitHub! Sou Tenente Coronel da Polícia Militar do Estado de Rondônia, piloto de aeronaves, atualmente explorando o universo da tecnologia e estudando **Análise e Desenvolvimento de Sistemas**.
 - 
 - ## 🛡️ Sobre mim
 - 🎖️ Tenho uma carreira dedicada à Segurança Pública, com vasta experiência na **aviação militar**, **planejamento operacional** e **estratégico**.
